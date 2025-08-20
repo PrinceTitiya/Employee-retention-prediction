@@ -13,6 +13,9 @@ A simple **Machine Learning + Streamlit** web application that predicts whether 
 
   ---
 ## How to run?
+Install dependencies
 - pip install -r requirements.txt
+Train the model
 - python3 Model.py
-- python3 -m streamlit run app.py
+Run the Web App
+- python3 -m streamlit run App.py

@@ -11,13 +11,8 @@ A simple **Machine Learning + Streamlit** web application that predicts whether 
 - Streamlit-powered interactive web app.
 - Predict employee churn with trained model.
 
----
-
-## 📂 Project Structure
-employee-retention-prediction/
-│── app.py # Streamlit frontend
-│── model.py # ML training pipeline
-│── HR_dataset2.csv # Dataset (sample)
-│── employee_churn_model.pkl# Saved trained model
-│── requirements.txt # Project dependencies
-│── README.md # Documentation
+  ---
+## Install dependencies
+-pip install -r requirements.txt
+-python3 Model.py
+-python3 -m streamlit run app.py

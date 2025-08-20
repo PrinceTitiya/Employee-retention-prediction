@@ -12,7 +12,7 @@ A simple **Machine Learning + Streamlit** web application that predicts whether 
 - Predict employee churn with trained model.
 
   ---
-## Install dependencies
--pip install -r requirements.txt
--python3 Model.py
--python3 -m streamlit run app.py
+## How to run?
+- pip install -r requirements.txt
+- python3 Model.py
+- python3 -m streamlit run app.py
